@@ -7,7 +7,7 @@ def main():
     bigger = 0
     smaller = None
     for index in range(10):
-        x = input("enter a number pls"):int
+        x = input("enter a number pls")
         if x < smaller or smaller == None:
             smaller = x
         if x > bigger:
