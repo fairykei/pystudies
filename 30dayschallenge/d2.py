@@ -78,7 +78,8 @@ area_of_circle = radius * 3.14
 circum_of_circle = 3.14 * (radius*2)
 
 radius = input('insert the circle radius: ')
-area_of_circle = radius * 3.14
+area_of_circle = int(radius) * 3.14
+print(area_of_circle)
 
 print("\n# 17")
 first_name = input('first name: ')
