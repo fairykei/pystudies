@@ -48,10 +48,13 @@ print("\n# 11")
 print("\n# 12")
 
 print("\n# 13")
+print('on' in 'jargon' and )
 
 print("\n# 14")
+print("jargon" in "I hope this course is not full of jargon.")
 
 print("\n# 15")
+print(not('on' in 'dragon' and 'on' in 'python'))
 
 print("\n# 16")
 
